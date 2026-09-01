@@ -1,118 +1,126 @@
-\# Combat Warriors
+# 🎮 Combat Warriors
 
+> A 3D combat game built with **Unity** and **C#**, featuring player movement, combat mechanics, interactive environments, weapons, and a score system.
 
+<p align="center">
+  <img src="screenshots/gameplay.png" alt="Combat Warriors Gameplay" width="800"/>
+</p>
 
-A 3D combat game developed with Unity and C#.
+## 📖 About
 
+**Combat Warriors** is a 3D combat game developed using Unity and C#. The project focuses on creating an interactive gameplay experience with combat, weapons, player movement, scoring, and an in-game environment.
 
+The project allowed me to develop practical experience in **game development, C# programming, Unity's game engine, gameplay mechanics, and user interaction**.
 
-\## About the Game
+## ✨ Features
 
+* ⚔️ 3D combat system
+* 🎮 Player movement and controls
+* 🗺️ Interactive game environment
+* 🔫 Weapon system
+* 🏆 Score system
+* 🛒 In-game shop
+* ⚙️ Settings menu
+* 🎯 Interactive gameplay
 
+## 🛠️ Technologies
 
-Combat Warriors is a Unity-based combat game focused on player movement, combat mechanics, and interactive gameplay.
+| Technology        | Purpose                             |
+| ----------------- | ----------------------------------- |
+| **Unity**         | Game engine and 3D development      |
+| **C#**            | Gameplay programming and game logic |
+| **Visual Studio** | C# development                      |
 
+## 🎮 Controls
 
+| Key / Input           | Action       |
+| --------------------- | ------------ |
+| **W A S D**           | Move         |
+| **Mouse**             | Look around  |
+| **Left Mouse Button** | Attack       |
+| **Space**             | Jump         |
+| **Esc**               | Pause / Menu |
 
-The project was developed as part of my software development work to gain practical experience with Unity, C#, game development, and interactive 3D environments.
+## 📸 Screenshots
 
+### Main Menu
 
+<p align="center">
+  <img src="screenshots/main.png" alt="Main Menu" width="800"/>
+</p>
 
-\## Features
+### Gameplay
 
+<p align="center">
+  <img src="screenshots/gameplay.png" alt="Gameplay" width="800"/>
+</p>
 
+### Weapon Shop
 
-\* 3D player-controlled combat
+<p align="center">
+  <img src="screenshots/shopweapon.png" alt="Weapon Shop" width="800"/>
+</p>
 
-\* Player movement and interaction
+### Map Shop
 
-\* Combat mechanics
+<p align="center">
+  <img src="screenshots/shopmap.png" alt="Shop Map" width="800"/>
+</p>
 
-\* Interactive game environment
+### Score System
 
-\* Unity-based game development
+<p align="center">
+  <img src="screenshots/scores.png" alt="Score System" width="800"/>
+</p>
 
-\* C# scripting
+### Settings
 
+<p align="center">
+  <img src="screenshots/settings.png" alt="Settings" width="800"/>
+</p>
 
+## 📥 Download & Play
 
-\## Technologies Used
+### Windows
 
+Download the latest playable version from the GitHub Releases page:
 
+**[⬇️ Download Combat Warriors](../../releases/latest)**
 
-\* \*\*Unity\*\*
+1. Download the ZIP file.
+2. Extract the ZIP.
+3. Open the extracted folder.
+4. Run **`Combat Warriors.exe`**.
 
-\* \*\*C#\*\*
+> **Note:** The game is currently available for Windows.
 
-\* \*\*Visual Studio\*\*
+## 🚀 Project Highlights
 
-
-
-\## How to Play
-
-
-
-1\. Download the latest game build from the \*\*Releases\*\* section.
-
-2\. Extract the downloaded ZIP file.
-
-3\. Open the extracted folder.
-
-4\. Run `Combat Warriors.exe`.
-
-
-
-> \*\*Note:\*\* Windows may display a security warning when running an executable downloaded from the internet. If you trust the source, review the warning and proceed accordingly.
-
-
-
-\## Controls
-
-
-
-| Key               | Action       |
-
-| ----------------- | ------------ |
-
-| W / A / S / D     | Move         |
-
-| Mouse             | Look around  |
-
-| Left Mouse Button | Attack       |
-
-| Space             | Jump         |
-
-| Esc               | Pause / Menu |
-
-
-
-\## Screenshots
-
-
-
-Screenshots of the game will be added here.
-
-
-
-\## Download
-
-
-
-The playable Windows build is available in the \*\*Releases\*\* section of this repository.
-
-
-
-\## Project Information
-
-
-
-This repository contains the distributable Windows build of the game.
-
-
-
-The original Unity source project is not included in this repository.
-
-
-
-
-
+* Unity's 3D game development environment
+* C# scripting
+* Player movement and gameplay logic
+* Combat and weapon mechanics
+* UI and menu systems
+* Game scoring
+* Interactive environments
+* Building and packaging a Windows game
+
+## 📂 Repository Contents
+
+```text
+Combat-Warriors-Game/
+│
+├── screenshots/
+│   ├── gameplay.png
+│   ├── main.png
+│   ├── scores.png
+│   ├── setting.png
+│   ├── shopmap.png
+│   └── shopweapon.png
+│
+└── README.md
+```
+
+The playable Windows build is distributed through the **GitHub Releases** section.
+
+#
