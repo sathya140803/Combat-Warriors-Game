@@ -76,7 +76,7 @@ The project allowed me to develop practical experience in **game development, C#
 ### Settings
 
 <p align="center">
-  <img src="screenshots/settings.png" alt="Settings" width="800"/>
+  <img src="screenshots/setting.png" alt="Settings" width="800"/>
 </p>
 
 ## 📥 Download & Play
